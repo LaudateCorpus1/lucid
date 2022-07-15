@@ -23,7 +23,7 @@
     "rollup-plugin-node-resolve": "^3.0.3",
     "rollup-plugin-svelte": "^4.0.0",
     "serve": "^10.1.2",
-    "svelte": "^1.56.1"
+    "svelte": "^3.49.0"
   },
   "scripts": {
     "build": "rollup -c rollup.config.js && rollup -c rollup.cjs.config.js",
